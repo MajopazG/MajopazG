@@ -1,4 +1,4 @@
-<header id="header" align="center">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="cat in software" width="600" height="200"/>
     <h1 align="center">Hi 👋, I'm Maria Jose</h1>
     <h3>I am a young girl who is starting her way in this great learning that is programming, I am passionate about the code that we learn in html, css and different programming languages, I am still learning, I still have a long way to go but I will get to the next level.</h3>
@@ -43,3 +43,4 @@
 ### 📊 My stats: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajopazG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
